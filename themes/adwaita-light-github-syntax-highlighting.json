@@ -75,6 +75,7 @@
     "editorLineNumber.foreground": "#32323280",
     "widget.shadow": "#00000022"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [
